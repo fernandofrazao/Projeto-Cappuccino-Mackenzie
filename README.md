@@ -10,8 +10,8 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 **Índice**
 
 - [1. Introdução](#1-introdução)
-- [2. Informações sobre a empresa](#2-informações-sobre-a-empresa)
-- [3. Escopo do projeto](#3-escopo-do-projeto)
+- [2. Objetivos funcionais](#2-informações-sobre-a-empresa)
+- [3. Objetivos não-funcionais](#3-escopo-do-projeto)
 - [4. Interessados](#4-interessados)
 - [5. Objetivos funcionais](#5-objetivos-funcionais)
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
