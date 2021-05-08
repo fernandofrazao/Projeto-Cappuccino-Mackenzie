@@ -32,11 +32,10 @@ author: "Prática Profissional em ADS"
 
 # 1. Introdução
 
-Este é um documento de especificação de requisitos para um novo sistema web de vendas de produtos da Empresa Solar Systems. A Empresa Solar Systems vende equipamentos para a geração de energia elétrica de formas alternativas, tais como células fotovoltaicas e turbinas eólicas.
+A promoção do engajamento de colaboradores é fundamental para o desenvolvimento de bons trabalhos no mundo corporativo. Nesta linha, empresas buscam formas de criar situações de compartilhamento de experiências para que as pessoas envolvidas se conheçam e promovam sinergia entre as pessoas, de modo a promover maior desempenho em grupos multidisciplinares, também conhecidos por Squads.
+Considerando que os serviços de streaming nunca estiveram tão em alta graças à pandemia do coronavírus, bem como, escolher entre milhares de filmes, séries ou livros disponíveis pode ser uma tarefa um tanto quanto estressante.
+Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos colaboradores, de modo a prover interação com contribuições na forma de dicas e recomendações sobre filmes, séries e livros.
 
-O sistema deverá permitir que clientes e funcionários da empresa naveguem pelo catálogo de produtos e efetuem pedidos de produtos de forma on-line.
-
-Este documento descreve os requisitos não-funcionais, modela os requisitos funcionais com casos de uso e modela os conceitos do domínio do problema.
 
 
 # 2. Informações sobre a empresa
