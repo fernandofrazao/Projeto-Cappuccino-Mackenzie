@@ -33,17 +33,34 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 
 # 1. Introdução
 
-A promoção do engajamento de colaboradores é fundamental para o desenvolvimento de bons trabalhos no mundo corporativo. Nesta linha, empresas buscam formas de criar situações de compartilhamento de experiências para que as pessoas envolvidas se conheçam e promovam sinergia entre as pessoas, de modo a promover maior desempenho em grupos multidisciplinares, também conhecidos por Squads.
-Considerando que os serviços de streaming nunca estiveram tão em alta graças à pandemia do coronavírus, bem como, escolher entre milhares de filmes, séries ou livros disponíveis pode ser uma tarefa um tanto quanto estressante.
-Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos colaboradores, de modo a prover interação com contribuições na forma de dicas e recomendações sobre filmes, séries e livros.
+N1 :
+A)	Especificação completa do Sistema: (Peso 7)
+•	Definição dos Requisitos (RF e RNF).
+•	Casos de Uso (incluindo definição de cenários).
+•	Diagramas de Sequências (um para cada Caso de Uso).
+•	Wireframes (um para cada diagrama de Sequencias).
+•	Diagrama de Domínio e Diagrama de Classes.
+B)	Infraestrutura inicial (Peso 3)
+•	Montagem de repositório de documentos e fontes (por exemplo, no GitHub ou no GitLab).
+•	Montagem de um Kanban para definição de atividades do projeto e atribuições (por exemplo, no Trello).
+•	Definição da infraestrutura de implantação e implantação de uma versão inicial da aplicação (com funcionalidades de registro e login do membro).
+N2:
+C)	Documentos (Peso 3)
+•	Revisão da especificação, conforme feedbacks do professor.
+•	Plano de Testes e evidências de realização.
+D)	Aplicação implantada e em operação (Peso 7)
+
+
+(Posteriormente será publicado um detalhamento dos critérios de avaliação de cada item).
+
 
 
 
 # 2. Informações sobre a empresa
 
-A Empresa Solar Systems vende equipamentos para a geração de energia de formas alternativas e identificou tendências que causarão um aumento significativo na demanda por seus produtos.
-
-Devido à natureza técnica e inovadora de seus produtos, a empresa possui vendedores capazes de orientar os clientes no processo de escolher um sistema de energia alternativa. A empresa possui também funcionários que têm a função de gerente do produto. O gerente do produto é um especialista em um determinado produto ou em uma determinada linha de produtos. Ele produz os *whitepapers*, documentos altamente técnicos e focados nas especificações dos produtos.
+A promoção do engajamento de colaboradores é fundamental para o desenvolvimento de bons trabalhos no mundo corporativo. Nesta linha, empresas buscam formas de criar situações de compartilhamento de experiências para que as pessoas envolvidas se conheçam e promovam sinergia entre as pessoas, de modo a promover maior desempenho em grupos multidisciplinares, também conhecidos por Squads.
+Considerando que os serviços de streaming nunca estiveram tão em alta graças à pandemia do coronavírus, bem como, escolher entre milhares de filmes, séries ou livros disponíveis pode ser uma tarefa um tanto quanto estressante.
+Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos colaboradores, de modo a prover interação com contribuições na forma de dicas e recomendações sobre filmes, séries e livros.
 
 
 # 3. Escopo do projeto
