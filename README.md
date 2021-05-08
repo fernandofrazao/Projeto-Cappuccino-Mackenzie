@@ -41,54 +41,66 @@ Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para
 
 # 5. Objetivos funcionais
 
-1. O sistema deverá permitir que clientes e vendedores efetuem pedidos de produtos on-line.  
-   
-   Para os clientes, isto eliminará a demora atual entre a sua decisão de comprar e a realização do pedido.
 
-   Isto também reduzirá o tempo que o vendedor gasta para elaborar um pedido.
+a.	Qualquer pessoa da empresa pode se registrar nesta rede social.
 
-2. O sistema deverá permitir que os gerentes de produto atualizem a descrição de seus produtos no site.  
-   
-   Isto reduzirá a quantidade de acessos a informações desatualizadas.
 
-   Isto eliminará a atualização da informação em diversos documentos.
+b.	No momento do registro, o usuário deverá fornecer os seguintes dados: nome completo, username que deseja utilizar, senha que usará para acessar o sistema, data de nascimento, cidade e estado.
 
-3. O sistema deverá permitir que os funcionários vejam quem é o gerente de produto para qualquer produto da empresa, bem como as informações para entrar em contato (ramal, celular, email).
 
-   Isto reduzirá o tempo para um funcionário encontrar e entrar em contato com o gerente de um determinado produto.
+c.	Cada membro poderá, a qualquer momento, atualizar os dados do seu perfil.
+ 
+d.	Após acessar o sistema, cada membro poderá avaliar os filmes, séries e livros que desejar.
 
-4. O sistema deverá permitir que o cliente entre em contato diretamente com o escritório de vendas mais próximo da sua região.
 
-   Isto reduzirá o tempo para o cliente enviar uma requisição e receber uma resposta.
+e.	Para entrar uma avaliação, o membro seleciona o tipo de item (livro, filme ou série), busca pelo nome do item, atribui uma nota de 0 a 10 (somente valores inteiros) e escreve os comentários que julgar relevantes (com limite de 1024 caracteres).
 
-5. O sistema deverá permitir contabilizar dados precisos das transações de compra.
 
-   Isto melhorará o atendimento ao cliente reduzindo problemas relacionados à cobrança.
+f.	O membro pode cadastrar um novo filme, série ou livro. Este novo item deve ser validado por um administrador de conteúdo antes de disponibilizar aos demais membros. Caso item sugerido já exista, o administrador indica o item e vincula a avaliação ao item já existente.
 
-6. O sistema deverá permitir enviar os produtos com dados precisos da compra.
 
-   Isto permitirá maior agilidade no processamento dos pedidos e na atualização do estoque.
+g.	Ao cadastrar um livro, é necessário fornecer as seguintes informações: título, autor(es), editora, país, ano de lançamento.
 
-7. O sistema deverá permitir que sejam realizadas pesquisas em todo o texto das páginas web a que o usuário tem acesso. O sistema deverá permitir as seguintes pesquisas:
-   * pesquisar todas as palavras
-   * pesquisar qualquer uma das palavras
-   * pesquisar a frase exata
 
-8. O sistema deverá permitir que os *whitepapers* sejam acessados nas páginas dos próprios produtos.
+h.	Ao cadastrar um filme, é necessário fornecer as seguintes informações: título, diretor, elenco principal, país, ano.
 
-   Isto permitirá que os clientes encontrem sozinhos as informações, reduzindo o custo de suporte ao cliente.
 
-9.  O sistema deverá permitir que o status do usuário seja armazenado para a próxima vez que ele retornar à aplicação web.
-    
-    Isto reduzirá o tempo de visita do usuário, pois ele não precisará fornecer novamente dados que ele já entrou em uma visita anterior.
+i.	Ao cadastrar uma série, é necessário fornecer as seguintes informações: título, diretor, elenco principal, país, ano, número de temporadas.
 
-10. O sistema deverá fornecer ao departamento de marketing as informações de navegação do cliente.
 
-   Esta informação permitirá que o marketing determine qual informação disparou a compra e ajudará a abordar clientes em potencial de forma mais efetiva.
+j.	Após o sistema ter pelo menos 10 membros cadastrados e cada membro entrar pelo menos 10 avaliações, o sistema passará a apresentar para cada membro recomendações de filmes, séries e livros que podem ser de seu interesse.
 
-11. O sistema deverá traduzir as páginas web nos idiomas dos países onde os produtos da empresa estão disponíveis.
 
-   Isto melhorará o serviço ao cliente e reduzirá o número de chamadas ao suporte por clientes estrangeiros.
+k.	O sistema deverá utilizar um algoritmo colaborativo para oferecer as recomendações a um determinado membro. Isto quer dizer que o sistema deverá identificar membros que têm um perfil semelhante com base nas avaliações já realizadas e oferecer recomendações com base no que estes membros avaliaram bem.
+
+
+l.	Cada membro terá uma página pessoal que listará todas as avaliações que ele já realizou. Os membros logados poderão pesquisar por outros membros pelo nome e acessar as suas páginas pessoais.
+
+
+m.	Cada membro poderá propor relacionamento de amizade a outro membro. O relacionamento de amizade será estabelecido quando o outro membro aceitar a proposta.
+ 
+n.	Os membros que possuem relacionamento de amizade podem adicionar comentários às avaliações feitas pelo outro.
+
+
+o.	Um membro poderá dar um "joinha" nas avaliações de outro membro. Em cada avaliação aparecerá o número de "joinhas" que ela já recebeu. O membro que deu o “joinha” para a avaliação poderá retirá-lo posteriormente se assim desejar.
+
+
+p.	A página pessoal de um membro mostrará, além das avaliações que ele fez, uma lista com os seus amigos e o número de ”joinhas” que já recebeu em suas avaliações.
+
+
+q.	Quando um membro acessar a página de outro, o sistema deverá mostrar os amigos que eles têm em comum.
+
+
+r.	Sempre que um membro acessar o sistema, ele deverá receber a sugestão de 3 membros que poderiam ser seus amigos. O critério será sugerir membros que têm preferências semelhantes, com base nas avaliações já realizadas.
+
+
+s.	Cada filme, série e livro deverá ter uma página no sistema que reunirá todas as avaliações já realizadas daquele item, ordenadas pelo número de "joinhas" recebidos.
+
+
+t.	O sistema deverá permitir que o gerente do serviço consulte:
+a.	O número médio de amigos dos membros da rede social.
+b.	Uma lista com os 10 membros mais conectados (com o maior número de amigos).
+c.	Um gráfico mostrando a relação entre o número de amigos e o estado onde mora.
 
 
 # 6. Objetivos não-funcionais
