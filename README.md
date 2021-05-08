@@ -32,65 +32,11 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 
 
 # 1. Introdução
-
-N1 :
-A)	Especificação completa do Sistema: (Peso 7)
-•	Definição dos Requisitos (RF e RNF).
-•	Casos de Uso (incluindo definição de cenários).
-•	Diagramas de Sequências (um para cada Caso de Uso).
-•	Wireframes (um para cada diagrama de Sequencias).
-•	Diagrama de Domínio e Diagrama de Classes.
-B)	Infraestrutura inicial (Peso 3)
-•	Montagem de repositório de documentos e fontes (por exemplo, no GitHub ou no GitLab).
-•	Montagem de um Kanban para definição de atividades do projeto e atribuições (por exemplo, no Trello).
-•	Definição da infraestrutura de implantação e implantação de uma versão inicial da aplicação (com funcionalidades de registro e login do membro).
-N2:
-C)	Documentos (Peso 3)
-•	Revisão da especificação, conforme feedbacks do professor.
-•	Plano de Testes e evidências de realização.
-D)	Aplicação implantada e em operação (Peso 7)
-
-
-(Posteriormente será publicado um detalhamento dos critérios de avaliação de cada item).
-
-
-
-
-# 2. Informações sobre a empresa
-
 A promoção do engajamento de colaboradores é fundamental para o desenvolvimento de bons trabalhos no mundo corporativo. Nesta linha, empresas buscam formas de criar situações de compartilhamento de experiências para que as pessoas envolvidas se conheçam e promovam sinergia entre as pessoas, de modo a promover maior desempenho em grupos multidisciplinares, também conhecidos por Squads.
 Considerando que os serviços de streaming nunca estiveram tão em alta graças à pandemia do coronavírus, bem como, escolher entre milhares de filmes, séries ou livros disponíveis pode ser uma tarefa um tanto quanto estressante.
 Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos colaboradores, de modo a prover interação com contribuições na forma de dicas e recomendações sobre filmes, séries e livros.
 
 
-# 3. Escopo do projeto
-
-O escopo deste projeto é um sistema web que dá suporte à venda de produtos da empresa diretamente aos clientes, bem como à rede de vendedores. A publicidade de produtos, o controle de estoque e a cobrança não são parte deste projeto.
-
-A engine de pesquisa web será adquirida como um componente pronto para o novo sistema. Os detalhes internos desta engine não fazem parte deste projeto. Questões de segurança do site, além da proteção por senha no próprio site, também não são parte do projeto.
-
-> Observação do professor: neste exemplo, deixei como parte do projeto somente a proteção por senha, assumindo que as demais questões de segurança serão tratadas pela equipe de operações. No caso do projeto do seu grupo, será necessário tratar destes outros aspectos de segurança.
-
-
-# 4. Interessados
-
-Aqueles que irão se beneficiar diretamente e aqueles que serão afetados pelo novo sistema:
-
-* Clientes: Conseguirão navegar pelo site para encontrar e fazer pedidos de produtos. Poderão escolher entre pedir diretamente da empresa ou através de um vendedor.
-
-* Vendedores: Conseguirão navegar pelo site e obter informações atualizadas, precisas e detalhadas dos produtos. Serão informados de clientes em potencial e conseguirão se comunicar com o gerente do produto.
-
-* Gerentes do produto: Conseguirão atualizar diretamente as informações de seus produtos.
-
-* Serviço de Atendimento ao Consumidor (SAC): O sistema reduzirá a carga de trabalho no SAC, pois os clientes conseguirão encontrar de forma mais fácil as informações que necessitam.
-
-* Departamento de Marketing:: Os dados de navegação no site poderiam ser enviados para o departamento de marketing. Entendendo como um cliente usa o site ao fazer um pedido, o departamento poderá propor e implementar melhorias para manter os clientes.
-
-* Departamento de Contabilidade: As informações dos pedidos serão enviadas diretamente para a contabilidade, permitindo uma cobrança mais ágil e eficiente.
-
-* Departamento de Logística: As informações dos pedidos serão enviadas diretamente para o departamento de logística, que dará baixa no estoque e providenciará o envio do produto.
-
-* Departamento de Tecnologia da Informação: Será responsável pela implementação da nova base de dados, hospedagem da aplicação web e manutenção do sistema.
 
 
 # 5. Objetivos funcionais
