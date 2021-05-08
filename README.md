@@ -1,8 +1,9 @@
 # Projeto-PPADS
 
 ---
-title: "Especificação do Sistema Web de Vendas Solar System"
-author: "Prática Profissional em ADS"
+Proposta de desenvolvimento:
+Aplicativo para Recomendação de Filmes, Séries e Livros
+
 ---
 
 
