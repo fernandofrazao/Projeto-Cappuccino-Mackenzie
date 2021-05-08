@@ -39,7 +39,7 @@ Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para
 
 
 
-# 5. Objetivos funcionais
+# 2. Objetivos funcionais
 
 
 a.	Qualquer pessoa da empresa pode se registrar nesta rede social.
@@ -103,7 +103,7 @@ b.	Uma lista com os 10 membros mais conectados (com o maior número de amigos).
 c.	Um gráfico mostrando a relação entre o número de amigos e o estado onde mora.
 
 
-# 6. Objetivos não-funcionais
+# 3. Objetivos não-funcionais
 
 a. O sistema deverá estar completamente operacional pelo menos 99.99% do tempo.
 
@@ -140,7 +140,7 @@ o. O sistema deverá ter interface com
 * A engine de pesquisa (a ser adquirida).
 
 
-# 7. COTS (Commercial Off-The-Shelf)
+# 4. COTS (Commercial Off-The-Shelf)
 
 Os softwares que serão adquiridos para compor o sistema são:
 
@@ -149,7 +149,7 @@ Os softwares que serão adquiridos para compor o sistema são:
 * Engine de pesquisa.
 
 
-# 8. Casos de uso
+# 5. Casos de uso
 
 A figura a seguir apresenta o diagrama de casos de uso:
 
