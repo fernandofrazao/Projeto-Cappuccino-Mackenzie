@@ -152,8 +152,8 @@ A figura a seguir apresenta o wireframe selecionar item para avaliar:
 A figura a seguir apresenta o wireframe cadastrar novo item:
 ![WhatsApp Image 2021-03-19 at 21 45 38](https://user-images.githubusercontent.com/45408379/117559284-62703c80-b05a-11eb-9bc8-7eeb05492ae4.jpeg)
 
-A figura a seguir apresenta o wireframe cadastar novo item:
-![WhatsApp Image 2021-03-19 at 21 45 38](https://user-images.githubusercontent.com/45408379/117559284-62703c80-b05a-11eb-9bc8-7eeb05492ae4.jpeg)
+A figura a seguir apresenta o wireframe cadastar novo livro:
+![WhatsApp Image 2021-03-19 at 22 10 02](https://user-images.githubusercontent.com/45408379/117559419-75374100-b05b-11eb-93d6-780f4122160b.jpeg)
 
 
 
