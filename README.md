@@ -161,6 +161,9 @@ A figura a seguir apresenta o wireframe cadastar novo filme:
 A figura a seguir apresenta o wireframe cadastar nova série:
 ![WhatsApp Image 2021-03-19 at 22 18 58](https://user-images.githubusercontent.com/45408379/117559456-c0515400-b05b-11eb-9c0c-851a78a10ee4.jpeg)
 
+A figura a seguir apresenta o wireframe de navegação:
+![Wireframe navegação](https://user-images.githubusercontent.com/45408379/117559484-263ddb80-b05c-11eb-9866-6a5ac4e9c529.png)
+
 
 # 10. Diagrama de classes de domínio
 
