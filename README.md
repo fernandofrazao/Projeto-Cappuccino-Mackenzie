@@ -10,10 +10,9 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 
 - [1. Introdução](#1-introdução)
 - [2. Objetivos funcionais](#2-informações-sobre-a-empresa)
-- [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
-- [8. Casos de uso](#8-casos-de-uso)
-- [9. Wireframes](#9-wireframes)
-- [10. Diagrama de classes de domínio](#10-diagrama-de-classes-de-domínio)
+- [3. Casos de uso](#8-casos-de-uso)
+- [4. Wireframes](#9-wireframes)
+- [5. Diagrama de classes de domínio](#10-diagrama-de-classes-de-domínio)
 
 
 
