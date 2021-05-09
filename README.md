@@ -146,6 +146,10 @@ A figura a seguir apresenta o diagrama de casos de uso:
 A figura a seguir apresenta o wireframe de usuário:
 ![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
 
+A figura a seguir apresenta o wireframe selecionar item para avaliar:
+
+![selecionar item](https://user-images.githubusercontent.com/45408379/117559245-09080d80-b05a-11eb-811f-75d03eceba49.jpeg)
+
 
 
 
