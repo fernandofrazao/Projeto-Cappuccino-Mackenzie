@@ -10,10 +10,6 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 
 - [1. Introdução](#1-introdução)
 - [2. Objetivos funcionais](#2-informações-sobre-a-empresa)
-- [3. Objetivos não-funcionais](#3-escopo-do-projeto)
-- [4. Interessados](#4-interessados)
-- [5. Objetivos funcionais](#5-objetivos-funcionais)
-- [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
 - [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
 - [8. Casos de uso](#8-casos-de-uso)
 - [9. Wireframes](#9-wireframes)
@@ -92,50 +88,13 @@ b.	Uma lista com os 10 membros mais conectados (com o maior número de amigos).
 c.	Um gráfico mostrando a relação entre o número de amigos e o estado onde mora.
 
 
-# 3. Objetivos não-funcionais
-
-a. O sistema deverá estar completamente operacional pelo menos 99.99% do tempo.
-
-b. O tempo fora do ar após uma falha não deverá exceder 0.5 hora.
-
-c. O vendedor deverá ser capaz de utilizar o sistema em seu trabalho após um treinamento de 2 dias.
-
-d. Um usuário que já sabe qual produto lhe interessa deve ser capaz de localizar e ver a página do produto em 20 segundos.
-
-e. O número de páginas web pelas quais o usuário precisa navegar para acessar a informação do produto a partir da página principal não deve ser maior do que 2.
-
-f. O sistema deverá ser capaz de suportar 1000 usuários simultâneos.
-
-g. O tempo médio para visualizar uma página web em uma conexão de 1Mbps não deverá exceder 5 segundos.
-
-h. O tempo médio para baixar e visualizar um *whitepaper* em uma conexão de 1Mbps não deverá exceder 10 segundos.
-
-i. O sistema deverá oferecer acesso protegido por senha para páginas web que são acessadas somente por funcionários.
-
-j. Os dados de transação devem ser transmitidos de forma criptografada.
-
-k. O sistema deverá ser capaz de acomodar novos produtos e novas linhas de produto sem necessidade de alterações na sua implementação.
-
-l. O site web do sistema deverá ser visível nos navegadores Mozilla Firefox (versão $\ge$ 75.0.0), Google Chrome (versão $\ge$ 81.0.0) e Microsoft Edge (versão $\ge$ 5.0.0).
-
-m. O sistema deverá disponibilizar uma página web que explica como navegar pelo site. A página deverá ser customizada com base nas páginas que o usuário pode acessar. Esta página de ajuda deverá ser acessível a partir de todas as outras páginas.
-
-o. O sistema deverá ter interface com
-
-* Uma base de dados relacional para informações dos produtos e dos pedidos.
-* O sistema atual de contabilidade da empresa.
-* O sistema atual do departamento de logística.
-* O tradutor (a ser adquirido).
-* A engine de pesquisa (a ser adquirida).
-
-
-# 4. Casos de uso
+# 3. Casos de uso
 
 A figura a seguir apresenta o diagrama de casos de uso:
 ![caso de uso](https://user-images.githubusercontent.com/45408379/117559006-060c1d80-b058-11eb-839a-d03cbd00bcd3.jpeg)
 
 
-# 5. Wireframes
+# 4. Wireframes
 
 A figura a seguir apresenta o wireframe de usuário:
 ![WhatsApp Image 2021-03-19 at 22 27 16](https://user-images.githubusercontent.com/45408379/117559467-fbec1e00-b05b-11eb-84f5-14a4d4d549b9.jpeg)
@@ -159,7 +118,7 @@ A figura a seguir apresenta o wireframe de navegação:
 ![Wireframe navegação](https://user-images.githubusercontent.com/45408379/117559484-263ddb80-b05c-11eb-9866-6a5ac4e9c529.png)
 
 
-# 6. Diagrama de Sequência 
+# 5. Diagrama de Sequência 
 
 A figura a seguir apresenta o diagrama de sequência 
 ![WhatsApp Image 2021-05-07 at 23 40 59](https://user-images.githubusercontent.com/45408379/117559520-774dcf80-b05c-11eb-912c-bf4e1c0c3d3d.jpeg)
