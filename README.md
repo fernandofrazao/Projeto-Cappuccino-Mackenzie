@@ -135,15 +135,6 @@ o. O sistema deverá ter interface com
 * A engine de pesquisa (a ser adquirida).
 
 
-# 4. COTS (Commercial Off-The-Shelf)
-
-Os softwares que serão adquiridos para compor o sistema são:
-
-* Tradutor do português para o inglês e do português para o espanhol.
-
-* Engine de pesquisa.
-
-
 # 5. Casos de uso
 
 A figura a seguir apresenta o diagrama de casos de uso:
@@ -151,7 +142,8 @@ A figura a seguir apresenta o diagrama de casos de uso:
 
 
 # 9. Wireframes
- Cadastro Usuário:![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
+Cadastro Usuário:
+![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
 
 
 
