@@ -144,7 +144,7 @@ A figura a seguir apresenta o diagrama de casos de uso:
 # 9. Wireframes
 
 A figura a seguir apresenta o wireframe de usuário:
-![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
+![WhatsApp Image 2021-03-19 at 22 27 16](https://user-images.githubusercontent.com/45408379/117559467-fbec1e00-b05b-11eb-84f5-14a4d4d549b9.jpeg)
 
 A figura a seguir apresenta o wireframe selecionar item para avaliar:
 ![selecionar item](https://user-images.githubusercontent.com/45408379/117559245-09080d80-b05a-11eb-811f-75d03eceba49.jpeg)
@@ -155,6 +155,11 @@ A figura a seguir apresenta o wireframe cadastrar novo item:
 A figura a seguir apresenta o wireframe cadastar novo livro:
 ![WhatsApp Image 2021-03-19 at 22 10 02](https://user-images.githubusercontent.com/45408379/117559419-75374100-b05b-11eb-93d6-780f4122160b.jpeg)
 
+A figura a seguir apresenta o wireframe cadastar novo filme:
+![WhatsApp Image 2021-03-19 at 22 16 27](https://user-images.githubusercontent.com/45408379/117559434-97c95a00-b05b-11eb-8aa3-22546934c877.jpeg)
+
+A figura a seguir apresenta o wireframe cadastar nova série:
+![WhatsApp Image 2021-03-19 at 22 18 58](https://user-images.githubusercontent.com/45408379/117559456-c0515400-b05b-11eb-9c0c-851a78a10ee4.jpeg)
 
 
 # 10. Diagrama de classes de domínio
