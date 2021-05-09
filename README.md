@@ -143,8 +143,9 @@ A figura a seguir apresenta o diagrama de casos de uso:
 
 # 9. Wireframes
 
-A figura a seguir apresenta o diagrama de casos de uso:
-![caso de uso](https://user-images.githubusercontent.com/45408379/117559006-060c1d80-b058-11eb-839a-d03cbd00bcd3.jpeg)
+A figura a seguir apresenta o wireframe de usuário:
+![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
+
 
 
 
