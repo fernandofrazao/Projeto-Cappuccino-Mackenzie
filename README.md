@@ -150,54 +150,9 @@ A figura a seguir apresenta o diagrama de casos de uso:
 ![caso de uso](https://user-images.githubusercontent.com/45408379/117559006-060c1d80-b058-11eb-839a-d03cbd00bcd3.jpeg)
 
 
-
-## 8.1. Acessar funções restritas
-
-**Nome do caso de uso:** Acessar funções restritas
-
-**Resumo:** Para ganhar acesso a informações restritas ou personalizadas, fazer pedidos ou outras transações especializadas, um usuário precisa se autenticar e o sistema determinará seu nível de acesso.
-
-**Pré-condições:**
-* O usuário já se registrou.
-
-**Pós-condições:**
-* O usuário pode obter informações e realizar funções disponíveis para o seu nível de acesso.
-
-**Fluxo principal:** 
-
-1. O usuário seleciona a operação para efetuar o login.
-2. O sistema solicita o seu *username* e a sua senha.
-3. O usuário entra seu *username*  e sua senha.
-4. O sistema verifica que o *username* e a senha correspondem às informações de um de seus usuários registrados.
-5. O sistema inicia uma sessão e apresenta uma mensagem de boas-vindas baseada nas preferências do usuário.
-
-
-**Fluxos alternativos:**
-
-Passo 4:
-* Se o *username* é invalido, o caso de uso retorna para o passo 2.
-
-Passo 4:
-* Se o *username* é válido e a senha é inválida, o sistema dá uma nova oportunidade para o usuário entrar a senha. Quando o usuário entra outra senha, o caso de uso continua com o passo 4, utilizando o *username* já informado e a nova senha.
-
-
-## 8.2. Efetuar registro
-
-> (em elaboração)
-
-
-## 8.3. Efetuar seu próprio pedido
-
-> (em elaboração)
-
-## 8.4. Efetuar pedido para o cliente
-
-> (em elaboração)
-
-
 # 9. Wireframes
 
-> Cadastro Usuário 
+ Cadastro Usuário 
 ![cadastro usuario](https://user-images.githubusercontent.com/45408379/117559097-e1647580-b058-11eb-872a-b8588b5b22c6.jpeg)
 
 
