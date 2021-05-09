@@ -152,8 +152,8 @@ Os softwares que serão adquiridos para compor o sistema são:
 # 5. Casos de uso
 
 A figura a seguir apresenta o diagrama de casos de uso:
+![caso de uso](https://user-images.githubusercontent.com/45408379/117559006-060c1d80-b058-11eb-839a-d03cbd00bcd3.jpeg)
 
-![Diagrama de casos de uso](diagramas/casos-de-uso.png)
 
 
 ## 8.1. Acessar funções restritas
