@@ -6,7 +6,6 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 
 ---
 
-
 **Índice**
 
 - [1. Introdução](#1-introdução)
@@ -17,10 +16,6 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 - [6. Objetivos não-funcionais](#6-objetivos-não-funcionais)
 - [7. COTS (Commercial Off-The-Shelf)](#7-cots-commercial-off-the-shelf)
 - [8. Casos de uso](#8-casos-de-uso)
-  - [8.1. Acessar funções restritas](#81-acessar-funções-restritas)
-  - [8.2. Efetuar registro](#82-efetuar-registro)
-  - [8.3. Efetuar seu próprio pedido](#83-efetuar-seu-próprio-pedido)
-  - [8.4. Efetuar pedido para o cliente](#84-efetuar-pedido-para-o-cliente)
 - [9. Wireframes](#9-wireframes)
 - [10. Diagrama de classes de domínio](#10-diagrama-de-classes-de-domínio)
 
@@ -30,7 +25,6 @@ Aplicativo para Recomendação de Filmes, Séries e Livros
 A promoção do engajamento de colaboradores é fundamental para o desenvolvimento de bons trabalhos no mundo corporativo. Nesta linha, empresas buscam formas de criar situações de compartilhamento de experiências para que as pessoas envolvidas se conheçam e promovam sinergia entre as pessoas, de modo a promover maior desempenho em grupos multidisciplinares, também conhecidos por Squads.
 Considerando que os serviços de streaming nunca estiveram tão em alta graças à pandemia do coronavírus, bem como, escolher entre milhares de filmes, séries ou livros disponíveis pode ser uma tarefa um tanto quanto estressante.
 Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos colaboradores, de modo a prover interação com contribuições na forma de dicas e recomendações sobre filmes, séries e livros.
-
 
 
 
@@ -135,13 +129,13 @@ o. O sistema deverá ter interface com
 * A engine de pesquisa (a ser adquirida).
 
 
-# 5. Casos de uso
+# 4. Casos de uso
 
 A figura a seguir apresenta o diagrama de casos de uso:
 ![caso de uso](https://user-images.githubusercontent.com/45408379/117559006-060c1d80-b058-11eb-839a-d03cbd00bcd3.jpeg)
 
 
-# 9. Wireframes
+# 5. Wireframes
 
 A figura a seguir apresenta o wireframe de usuário:
 ![WhatsApp Image 2021-03-19 at 22 27 16](https://user-images.githubusercontent.com/45408379/117559467-fbec1e00-b05b-11eb-84f5-14a4d4d549b9.jpeg)
@@ -165,6 +159,7 @@ A figura a seguir apresenta o wireframe de navegação:
 ![Wireframe navegação](https://user-images.githubusercontent.com/45408379/117559484-263ddb80-b05c-11eb-9866-6a5ac4e9c529.png)
 
 
-# 10. Diagrama de classes de domínio
+# 6. Diagrama de Sequência 
 
-> (em elaboração)
+A figura a seguir apresenta o diagrama de sequência 
+![WhatsApp Image 2021-05-07 at 23 40 59](https://user-images.githubusercontent.com/45408379/117559520-774dcf80-b05c-11eb-912c-bf4e1c0c3d3d.jpeg)
