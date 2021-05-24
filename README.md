@@ -1,5 +1,4 @@
-# Projeto - MACKENZIE PRATICA PROFISSIONAL EM ANALISE E DESENVOLVIMENTO DE SISTEMAS [Turma 05J] - 2021/1
-
+# Projeto - Mackenzie Prática Profissional Em Análise Desenvolvimento De Sistemas Turma-05J-2021
 ---
 Proposta de desenvolvimento:
 Aplicativo para Recomendação de Filmes, Séries e Livros
